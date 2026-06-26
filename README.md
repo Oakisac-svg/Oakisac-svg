@@ -35,24 +35,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oakisac-svg&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-<h2 align="center">
-  <a href="https://www.instagram.com/oakisac/" target="_blank">
-    🌎 Contato
-  </a>
-</h2>
-
 <p align="center">
   <a href="https://www.instagram.com/oakisac/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55">
   </a>
 
-  <a href="mailto:Oakisac@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-</p>
+  &nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  📧 <strong>Oakisac@gmail.com</strong>
+  <a href="mailto:Oakisac@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55">
+  </a>
 </p>
