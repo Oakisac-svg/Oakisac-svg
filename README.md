@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,supabase,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,supabase,git,github,vscode"/>
 </p>
 
 <br>
@@ -41,9 +41,11 @@
   <a href="mailto:Oakisac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/oakisac/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Oakisac-svg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
