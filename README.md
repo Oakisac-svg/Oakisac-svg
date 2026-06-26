@@ -41,14 +41,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/SEU-LINK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="https://instagram.com/SEU-USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-
+  &nbsp;
   <a href="mailto:seuemail@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
