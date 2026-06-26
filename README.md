@@ -12,7 +12,7 @@ Desenvolvedor Full Stack • Next.js • React • IA • SaaS
 
 ---
 
-## 🚀 Tecnologias
+<h2 align="center">🚀 Tecnologias</h2>
 
 <p align="center">
 
