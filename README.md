@@ -37,18 +37,22 @@
 
 ---
 
-<h2 align="center">🌎 Contato</h2>
+<h2 align="center">
+  <a href="https://www.instagram.com/oakisac/" target="_blank">
+    🌎 Contato
+  </a>
+</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/SEU-LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/SEU-USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+
+  <a href="https://www.instagram.com/oakisac/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  &nbsp;
+
   <a href="mailto:seuemail@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
