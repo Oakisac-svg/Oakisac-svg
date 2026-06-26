@@ -44,15 +44,15 @@
 </h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.instagram.com/oakisac/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
 
-  <a href="https://www.instagram.com/oakisac/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="mailto:Oakisac@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
+</p>
 
-  <a href="mailto:seuemail@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<p align="center">
+  📧 <strong>Oakisac@gmail.com</strong>
 </p>
